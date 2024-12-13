@@ -5,12 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=zhadan13&label=Profile%20views&color=9a28d7&style=flat" alt="zhadan13" />
   </p>
 
-  <p align="center">
-    <a href="https://github.com/zhadan13">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=zhadan13&theme=dracula&title=Commits, PullRequest, Repositories, Followers, Stars&margin-h=10&margin-w=10&row=1&column=5" alt="zhadan13" />
-    </a>
-  </p>
-
   <br>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhadan13&show_icons=true&theme=dracula&locale=en&layout=compact" alt="zhadan13" />
@@ -19,10 +13,5 @@
   <br>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhadan13&show_icons=true&theme=dracula&locale=en" alt="zhadan13" />
-  </p>
-
-  <br>
-  <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhadan13&theme=dark" alt="zhadan13" />
   </p>
 </div>
